@@ -6,7 +6,10 @@ A fun and interactive number guessing game built with **HTML**, **CSS**, and **J
 
 ## 📸 Preview
 
-![Screenshot](./screenshot.png) <!-- You can replace or remove this line if no image is added -->
+![Start Screen](./assets/Gamestarting.png)
+![Correct Guess](./assets/correctGuess.png)
+![Wrong Guess](./assets/WrongGuess.png)
+![Expired](./assets/expired.png)
 
 ---
 
