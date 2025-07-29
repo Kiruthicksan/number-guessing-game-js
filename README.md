@@ -50,7 +50,7 @@ A fun and interactive number guessing game built with **HTML**, **CSS**, and **J
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/number-guessing-game-js.git
+   https://github.com/Kiruthicksan/number-guessing-game-js.git
 2. Open index.html in your browser
 
 ---
